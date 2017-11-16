@@ -1,2 +1,3 @@
 # readme
-preprocessing.ipynb is for submission
+titanic1.ipynb is for submission
+
